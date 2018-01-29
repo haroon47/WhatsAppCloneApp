@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\0e61621aed041bc979edd9616efe8732ed6edd5c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\0e61621aed041bc979edd9616efe8732ed6edd5c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\0e61621aed041bc979edd9616efe8732ed6edd5c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\35b4f55c0f000d3357d85176c3618a8988c28f86\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\PracticeAndroidProjects\\WhatsAppMessenger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Haroon\\.android\\build-cache\\0e61621aed041bc979edd9616efe8732ed6edd5c\\output\\res\\anim\\design_fab_out.xml"
+    }
+]

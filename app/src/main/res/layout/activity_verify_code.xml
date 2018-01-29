@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.haroon.whatsappmessenger.VerifyCodeActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="12dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Verify "
+        android:id="@+id/textView11"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Waiting to automatically detect an SMS sent to "
+        android:id="@+id/textView12"
+        android:gravity="center"
+        android:layout_below="@+id/textView11"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Wrong Number?"
+        android:padding="10dp"
+        android:id="@+id/textView13"
+        android:textColor="#726faa"
+        android:textStyle="bold"
+        android:layout_below="@+id/textView12"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editText3"
+        android:layout_marginTop="41dp"
+        android:layout_below="@+id/textView13"
+        android:layout_centerHorizontal="true"
+        android:textSize="22sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Enter 6-digit code"
+        android:id="@+id/textView14"
+        android:padding="5dp"
+        android:layout_below="@+id/editText3"
+        android:layout_alignEnd="@+id/textView13" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView2"
+        android:layout_below="@+id/textView14"
+        android:layout_alignStart="@+id/textView12" />
+
+</RelativeLayout>

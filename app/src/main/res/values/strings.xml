@@ -1,0 +1,358 @@
+<resources>
+    <string name="app_name">WhatsApp Messenger</string>
+
+    <string-array name="defaultcountry">
+        <item>Pakistan</item>
+        <item>India</item>
+    </string-array>
+
+    <string-array name="country_names">
+        <item>India</item>
+        <item>Brasil</item>
+        <item>Spain</item>
+        <item>Germany</item>
+        <item>Mexico</item>
+        <item>Italy</item>
+        <item>Aland</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+
+        <item>Anguilla</item>
+        <item>Antigua &amp; Barbuda</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Ascension Island</item>
+        <item>Australia</item>
+        <item>Azarbaijan</item>
+        <item>Bahamas</item>
+        <item>Barbados</item>
+        <item>Belgium</item>
+
+
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bolivia</item>
+        <item>Bosnia</item>
+        <item>Botswana</item>
+        <item>British Indian Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Burkina Faso</item>
+
+
+        <item>Burundi</item>
+        <item>Cabo Verde</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Caribisch Netherlands</item>
+        <item>Cayman Islands</item>
+        <item>Czech Republic</item>
+        <item>Chile</item>
+        <item>Christmas Island</item>
+        <item>Vatican City</item>
+
+
+        <item>Colombia</item>
+        <item>Congo Brazzaville</item>
+        <item>Congo Kinshasa</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Cote Ivoire</item>
+        <item>Cuba</item>
+        <item>Curacao</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+
+
+        <item>Dominica</item>
+        <item>Ecuador</item>
+        <item>Estonia</item>
+        <item>El Salvador</item>
+        <item>Falkland Islands</item>
+        <item>Fiji</item>
+        <item>Foroyar</item>
+        <item>France</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+
+
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guine Bissau</item>
+        <item>Guinea Ecuatorial</item>
+        <item>Guinea</item>
+
+
+        <item>Guyana</item>
+        <item>Guyane francaise</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hrvatska</item>
+        <item>South Africa</item>
+        <item>Indonesia</item>
+        <item>Ireland</item>
+        <item>Iceland</item>
+        <item>Isle of Man</item>
+
+
+        <item>Jamaica</item>
+        <item>Jersey</item>
+        <item>Kalaallit Nunaat</item>
+        <item>Kenya</item>
+        <item>Kepulauan Cocos</item>
+        <item>Kiribati</item>
+        <item>Kosovo</item>
+        <item>La Reunion</item>
+        <item>Latvija</item>
+        <item>Lesotho</item>
+
+        <item>Liberia</item>
+        <item>Liechtenstein</item>
+        <item>Lietuva Nunaat</item>
+        <item>Madagascar</item>
+        <item>Hungary</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Micronesia</item>
+        <item>Mozambique</item>
+        <item>Monaco</item>
+        <item>Montserrat</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Niue</item>
+        <item>Norfolk Island</item>
+        <item>Norway</item>
+        <item>Northern Mariana Islands</item>
+        <item>New Caledonia</item>
+
+
+        <item>Uzbekistan</item>
+        <item>Austria</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Polynesie Francaise</item>
+
+
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Republic Dominicana</item>
+        <item>Republic Moldova</item>
+        <item>Republic Central African</item>
+        <item>Romania</item>
+        <item>Rwanda</item>
+        <item>Saint Barthelemy</item>
+        <item>Saint Martin</item>
+        <item>Samoa</item>
+
+        <item>Pakistan</item>
+
+    </string-array>
+
+
+    <string-array name="country_code">
+        <item>&#43;91</item>
+        <item>&#43;55</item>
+        <item>&#43;34</item>
+        <item>&#43;49</item>
+        <item>&#43;52</item>
+        <item>&#43;39</item>
+        <item>&#43;358</item>
+        <item>&#43;1</item>
+        <item>&#43;376</item>
+        <item>&#43;244</item>
+
+
+        <item>&#43;1</item>
+        <item>&#43;1</item>
+        <item>&#43;54</item>
+        <item>&#43;297</item>
+        <item>&#43;247</item>
+        <item>&#43;61</item>
+        <item>&#43;994</item>
+        <item>&#43;1</item>
+        <item>&#43;1</item>
+        <item>&#43;32</item>
+
+
+        <item>&#43;501</item>
+        <item>&#43;229</item>
+        <item>&#43;1</item>
+        <item>&#43;591</item>
+        <item>&#43;387</item>
+        <item>&#43;267</item>
+        <item>&#43;246</item>
+        <item>&#43;1</item>
+        <item>&#43;673</item>
+        <item>&#43;226</item>
+
+
+        <item>&#43;257</item>
+        <item>&#43;238</item>
+        <item>&#43;237</item>
+        <item>&#43;1</item>
+        <item>&#43;599</item>
+        <item>&#43;1</item>
+        <item>&#43;420</item>
+        <item>&#43;56</item>
+        <item>&#43;61</item>
+        <item>&#43;379</item>
+
+
+        <item>&#43;57</item>
+        <item>&#43;242</item>
+        <item>&#43;243</item>
+        <item>&#43;682</item>
+        <item>&#43;506</item>
+        <item>&#43;225</item>
+        <item>&#43;53</item>
+        <item>&#43;599</item>
+        <item>&#43;45</item>
+        <item>&#43;253</item>
+
+
+        <item>&#43;1</item>
+        <item>&#43;593</item>
+        <item>&#43;372</item>
+        <item>&#43;503</item>
+        <item>&#43;500</item>
+        <item>&#43;679</item>
+        <item>&#43;298</item>
+        <item>&#43;33</item>
+        <item>&#43;241</item>
+        <item>&#43;220</item>
+
+
+        <item>&#43;233</item>
+        <item>&#43;350</item>
+        <item>&#43;1</item>
+        <item>&#43;590</item>
+        <item>&#43;1</item>
+        <item>&#43;502</item>
+        <item>&#43;44</item>
+        <item>&#43;245</item>
+        <item>&#43;240</item>
+        <item>&#43;224</item>
+
+
+        <item>&#43;592</item>
+        <item>&#43;594</item>
+        <item>&#43;509</item>
+        <item>&#43;504</item>
+        <item>&#43;385</item>
+        <item>&#43;27</item>
+        <item>&#43;62</item>
+        <item>&#43;353</item>
+        <item>&#43;354</item>
+        <item>&#43;44</item>
+
+
+        <item>&#43;1</item>
+        <item>&#43;44</item>
+        <item>&#43;299</item>
+        <item>&#43;254</item>
+        <item>&#43;61</item>
+        <item>&#43;686</item>
+        <item>&#43;383</item>
+        <item>&#43;262</item>
+        <item>&#43;371</item>
+        <item>&#43;266</item>
+
+
+        <item>&#43;352</item>
+        <item>&#43;231</item>
+        <item>&#43;423</item>
+        <item>&#43;370</item>
+        <item>&#43;261</item>
+        <item>&#43;36</item>
+        <item>&#43;265</item>
+        <item>&#43;60</item>
+        <item>&#43;960</item>
+        <item>&#43;223</item>
+
+
+        <item>&#43;356</item>
+        <item>&#43;692</item>
+        <item>&#43;596</item>
+        <item>&#43;230</item>
+        <item>&#43;262</item>
+        <item>&#43;691</item>
+        <item>&#43;258</item>
+        <item>&#43;377</item>
+        <item>&#43;1</item>
+        <item>&#43;264</item>
+
+
+        <item>&#43;674</item>
+        <item>&#43;31</item>
+        <item>&#43;64</item>
+        <item>&#43;505</item>
+        <item>&#43;227</item>
+        <item>&#43;234</item>
+        <item>&#43;683</item>
+        <item>&#43;672</item>
+        <item>&#43;47</item>
+        <item>&#43;1</item>
+
+
+        <item>&#43;687</item>
+        <item>&#43;998</item>
+        <item>&#43;43</item>
+        <item>&#43;680</item>
+        <item>&#43;507</item>
+        <item>&#43;675</item>
+        <item>&#43;595</item>
+        <item>&#43;51</item>
+        <item>&#43;63</item>
+        <item>&#43;48</item>
+
+
+        <item>&#43;689</item>
+        <item>&#43;351</item>
+        <item>&#43;1</item>
+        <item>&#43;1</item>
+        <item>&#43;373</item>
+        <item>&#43;236</item>
+        <item>&#43;40</item>
+        <item>&#43;250</item>
+        <item>&#43;590</item>
+        <item>&#43;590</item>
+        <item>&#43;92</item>
+
+
+    </string-array>
+
+    <string-array name="code_title">
+        <item>Resend SMS</item>
+        <item>Call me</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
